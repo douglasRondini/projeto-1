@@ -65,3 +65,7 @@ fun printText(text:String){
     println(text)
 }
 
+fun separaNomeVirgula() {
+
+}
+
