@@ -11,6 +11,9 @@ fun main() {
     val nomesMin30 = getNomesProdutos(min30)
     printText(nomesMin30)
 
+    val todosNomes = getNomesProdutos(listPerfume)
+    printText(todosNomes)
+
 
 }
 
